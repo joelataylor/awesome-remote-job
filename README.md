@@ -1,9 +1,9 @@
 Awesome Remote Job
 ==================
 
-A curated list of awesome remote jobs and resources.
+A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecommuting) resources.
 
-Click README.md and then pencil icon to edit. It will create the fork automaticly.
+*To contribute, click README.md and then the pencil icon. Make your changes and click the "Propose file change" button to submit a pull request. Make sure to follow the contributions guidelines in CONTRIBUTING.md.*
 
 ## Articles & Posts
   1. [Why We (Still) Believe in Working Remotely](http://blog.stackoverflow.com/2013/02/why-we-still-believe-in-working-remotely/)
@@ -15,9 +15,11 @@ Click README.md and then pencil icon to edit. It will create the fork automaticl
 ## Job boards
   1. [Angel List](https://angel.co/jobs) Job Type -> Remote OK
   1. [Authentic Jobs](http://www.authenticjobs.com/)
-  1. [Careers Stackoverflow](http://careers.stackoverflow.com/) Location -> allows remote
+  1. [Careers Stackoverflow](http://careers.stackoverflow.com/jobs/remote)
   1. [HN hiring](http://hnhiring.me/) filter REMOTE
+  1. [JOBBOX.io](http://www.jobbox.io/offers) filter -> Remote only
   1. [Jobs Remotely](https://jobsremotely.com)
+  1. [No Fluff Jobs](https://nofluffjobs.com/#criteria=remote) filter -> "*remote*"
   1. [Nomad Jobs](http://nomadjobs.io/)
   1. [Remote Coder](http://remotecoder.io)
   1. [Remote Hackers](http://remotehackers.com/)
@@ -36,7 +38,7 @@ Click README.md and then pencil icon to edit. It will create the fork automaticl
   1. [DataStax](http://www.datastax.com/company/careers)
   1. [DuckDuckGo](https://duck.co/help/company/hiring)
   1. [Everlane](https://www.everlane.com/jobs)
-  2. [Eyeo](https://eyeo.com/jobs)
+  1. [Eyeo](https://eyeo.com/jobs)
   1. [Fog Creek](http://www.fogcreek.com/careers/)
   1. [Github](https://github.com/about/jobs)
   1. [GitLab](https://about.gitlab.com/jobs/)
@@ -47,8 +49,10 @@ Click README.md and then pencil icon to edit. It will create the fork automaticl
   1. [Mapbox](https://www.mapbox.com/jobs/)
   1. [Mozilla](https://careers.mozilla.org/en-US/listings/)
   1. [Red Hat](http://jobs.redhat.com/)
+  1. [SoftwareMill](https://softwaremill.com/join-us/)
   1. [StackExchange](http://stackexchange.com/work-here)
   1. [Soostone](http://www.soostone.com/careers) 
+  2. [Sqwiggle](https://angel.co/sqwiggle/jobs)
   1. [Toggle](http://jobs.toggl.com/)
   1. [Trello](https://trello.com/jobs)
   1. [Twin Technologies](https://www.twintechs.com/about-us/contact-us/careers/)
@@ -56,13 +60,25 @@ Click README.md and then pencil icon to edit. It will create the fork automaticl
   1. [Zapier](https://zapier.com/jobs/)
 
 ## Q&A
-[I program from home. What can I do to be more productive?](http://programmers.stackexchange.com/questions/257/i-program-from-home-what-can-i-do-to-be-more-productive)
+- StackExchange
+  - Workplace: [telecommute](http://workplace.stackexchange.com/questions/tagged/telecommute?sort=votes) / [remote](http://workplace.stackexchange.com/questions/tagged/remote?sort=votes)
+  - Freelancing: [remote](http://freelancing.stackexchange.com/questions/tagged/remote?sort=votes) / [working from home](http://freelancing.stackexchange.com/questions/tagged/working-from-home?sort=votes)
+  - Programmers: [home](http://programmers.stackexchange.com/questions/tagged/home?sort=votes) / [telecommuting](http://programmers.stackexchange.com/questions/tagged/telecommuting?sort=votes)
+- Quora: [Telecommuting and Working Remotely](http://www.quora.com/Telecommuting-and-Working-Remotely) / [Virtual Workplace](http://www.quora.com/Virtual-Workplace) / [Working at Home](http://www.quora.com/Working-at-Home)
+
+## Communities
+- [/r/telecommuting](http://www.reddit.com/r/telecommuting/)
 
 ## Tools
-- [Hipchat](https://www.hipchat.com/) great internal chat for hackers.
-- [Skype](http://www.skype.com) video calls.
-- [Trello](https://trello.com/) project managment.
-- [Hangout](http://www.google.com/+/learnmore/hangouts/) video calls.
+- Communication
+  - [Hipchat](https://www.hipchat.com/) great internal chat for hackers.
+  - [Skype](http://www.skype.com) video calls.
+  - [Hangout](http://www.google.com/+/learnmore/hangouts/) video calls.
+  - [Slack](https://slack.com/) chat system with loads of integration options
+  - [Appear.in](http://appear.in) browser-based, pluginless group video calls
+  - [Sqwiggle](https://www.sqwiggle.com/) Online Collaboration Software for Remote and Virtual Teams
+- Project managment 
+  - [Trello](https://trello.com/) 
 
 ## Law & Finance
-US based company can hire remote workers as 1099 contractors.
+US based companies can hire remote workers as [1099 contractors](http://www.wisegeek.com/what-is-a-1099-contractor.htm).
